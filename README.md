@@ -3,13 +3,13 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/suhnshaine/IT0049-TFA6.git
+git clone https://github.com/suhnshaine/IT0049-TFA7.git
 ```
 
 ### Navigate to the Project Folder
 
 ```bash
-cd IT0049-TFA6
+cd IT0049-TFA7
 ```
 
 ### Install Dependencies
